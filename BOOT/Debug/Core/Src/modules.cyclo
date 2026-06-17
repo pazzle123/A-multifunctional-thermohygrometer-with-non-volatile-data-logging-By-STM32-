@@ -1,0 +1,13 @@
+../Core/Src/modules.c:10:6:BOOT_Start	1
+../Core/Src/modules.c:18:6:BOOT_Stop	1
+../Core/Src/modules.c:29:13:UART_SetMode_8N1	1
+../Core/Src/modules.c:45:13:UART_SetMode_9B_Even	1
+../Core/Src/modules.c:65:13:UART_FlushRX	2
+../Core/Src/modules.c:72:16:WaitACK	2
+../Core/Src/modules.c:82:9:BL_Sync	4
+../Core/Src/modules.c:105:9:BL_GetVersion	6
+../Core/Src/modules.c:121:9:BL_ReadMemory	10
+../Core/Src/modules.c:151:9:BL_EraseMemory	5
+../Core/Src/modules.c:171:9:BL_WriteMemory	12
+../Core/Src/modules.c:208:10:CRC32_Calculate	4
+../Core/Src/modules.c:230:9:BL_VerifyCRC	7
