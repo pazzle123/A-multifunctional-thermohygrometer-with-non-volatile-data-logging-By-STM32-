@@ -3,4 +3,5 @@
 ## 📚 Документация
 
 ### Схема подключения
+![Схема подключения STM32](shematic/Project_STM32_shematic.png)
 - [Скачать схему в PDF](shematic/Project_STM32_shematic.pdf)
